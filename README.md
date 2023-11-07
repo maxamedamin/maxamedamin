@@ -61,7 +61,7 @@ A passionate full-stack software developer, Experienced in JavaScript-based prog
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=maxamedamin&show_icons=true&count_private=true&hide_border=true" align="center" background-color = 'gruvbox'/></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=maxamedamin&show_icons=true&count_private=true&hide_border=true" align="center" background-color = 'orange'/></div>  
 
 <br/>  
 
